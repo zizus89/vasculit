@@ -256,6 +256,7 @@ DEPENDENCIES
   pg
   puma (~> 5.0)
   rails (~> 7.0.3)
+  sassc-rails
   selenium-webdriver
   sprockets-rails
   stimulus-rails
